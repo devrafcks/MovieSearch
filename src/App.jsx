@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import "./App.css";
-import FooterLink from "./footer";
+import FooterLink from "./Footer";
 
 import SearchIcon from "./assets/search.svg";
 import MovieCard from "./Movie";
