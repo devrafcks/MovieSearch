@@ -18,8 +18,6 @@ MovieSearch é um projeto de pesquisa de filmes, onde os usuários podem pesquis
 
 ## Instalação
 
-### 1. Clonar o repositório
-
 ```bash
 git clone https://github.com/seu-usuario/movie-search.git
 npm install
